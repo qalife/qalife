@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Algoritms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Regex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +20,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="3810">
               <caret line="254" column="92" selection-start-line="254" selection-start-column="92" selection-end-line="254" selection-end-column="92" />
               <folding>
                 <marker date="1555808039619" expanded="true" signature="3055:3289" ph="..." />
@@ -40,10 +33,11 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Algoritms.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding>
                 <element signature="e#0#2866#0" expanded="true" />
                 <element signature="imports" expanded="true" />
+                <element signature="e#1499#1508#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,7 +46,7 @@
       <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/common/Utility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1706">
+            <state relative-caret-position="1785">
               <caret line="123" column="102" selection-start-line="123" selection-start-column="102" selection-end-line="123" selection-end-column="102" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +109,7 @@
       <file leaf-file-name="DriverType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="405">
               <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,7 +121,7 @@
       <file leaf-file-name="FirefoxDriver.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.5/selenium-firefox-driver-3.141.5.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
+            <state relative-caret-position="285">
               <caret line="48" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
@@ -227,11 +221,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="115" />
-    <option name="y" value="35" />
+    <option name="y" value="23" />
     <option name="width" value="1238" />
-    <option name="height" value="835" />
+    <option name="height" value="834" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,6 +235,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,37 +262,11 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -626,12 +596,12 @@
       <option name="project" value="LOCAL" />
       <updated>1555802357303</updated>
     </task>
-    <task id="LOCAL-00005" summary="Added tests for parsing yelp by selenium and by jsoup, and creating xls">
-      <created>1555475029878</created>
+    <task id="LOCAL-00005" summary="added new methods">
+      <created>1555814241033</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1555475029878</updated>
+      <updated>1555814241033</updated>
     </task>
     <task id="LOCAL-00006" summary="Added tests for parsing yelp by selenium and by jsoup, and creating xls">
       <created>1555475094722</created>
@@ -640,7 +610,7 @@
       <option name="project" value="LOCAL" />
       <updated>1555475094722</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -676,12 +646,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="23" width="1238" height="835" extended-state="0" />
-    <editor active="true" />
+    <frame x="115" y="23" width="1238" height="834" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17570755" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2913386" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -694,7 +662,6 @@
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24555735" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -708,36 +675,38 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2913386" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.33858266" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29245284" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19444445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17570755" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.33858266" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32900944" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.108333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.36870998" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29245284" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.108333334" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.36870998" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -907,9 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
           <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,9 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -944,13 +907,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/webdriver/RepositoryMap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="true" selection-end-line="187" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/webdriver/RepositoryMap.xml" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/RepositoryMap.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
@@ -967,7 +924,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.5/selenium-firefox-driver-3.141.5.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
+        <state relative-caret-position="285">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
@@ -990,9 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#1537#1538#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1005,7 +959,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="405">
           <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1015,7 +969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/common/Utility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1706">
+        <state relative-caret-position="1785">
           <caret line="123" column="102" selection-start-line="123" selection-start-column="102" selection-end-line="123" selection-end-column="102" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1066,7 +1020,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="3810">
           <caret line="254" column="92" selection-start-line="254" selection-start-column="92" selection-end-line="254" selection-end-column="92" />
           <folding>
             <marker date="1555808039619" expanded="true" signature="3055:3289" ph="..." />
@@ -1077,10 +1031,11 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Algoritms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="e#0#2866#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#1499#1508#0" expanded="true" />
           </folding>
         </state>
       </provider>

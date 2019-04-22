@@ -5,7 +5,8 @@
         <parameter name="browser" value="Chrome"/>
         <parameter name="team" value="1"/>
         <classes>
-            <class name="ui.LoginPageAT"/>
+            <!--<class name="ui.LoginPageAT"/>-->
+            <class name="Regex"/>
             <!--<class name="Algoritms"/>-->
             <!--<class name="ui.FoxSeleniumTest"/>-->
             <!--<class name="ui.TxtCreateReadModifyDeleteTest"/>-->
