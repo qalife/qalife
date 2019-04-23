@@ -20,6 +20,7 @@
             <class name="oop.InterfacesOOPTest"/>
             <class name="oop.StaticPolymorphism_OOP"/>
             <class name="unit.unitTest"/>
+
         </classes>
     </test>
 </suite>
