@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chrome.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chrome.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="47" selection-start-line="10" selection-start-column="46" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="120">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -83,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverType.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DriverType.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            <state relative-caret-position="426">
+              <caret line="48" column="79" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,6 +127,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -159,10 +159,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ui/LoginPageAT.java" />
         <option value="$PROJECT_DIR$/src/test/java/Algoritms.java" />
         <option value="$PROJECT_DIR$/src/test/java/Regex.java" />
-        <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" />
       </list>
     </option>
   </component>
@@ -608,7 +608,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556048448078</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update driver firefox">
+      <created>1556049904472</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556049904472</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update driver firefox">
+      <created>1556050016865</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556050016865</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -645,7 +659,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17570755" />
@@ -655,11 +668,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13958333" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.3856132" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.3856132" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20972222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20972222" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1000,16 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Firefox.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1026,8 +1029,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="47" selection-start-line="10" selection-start-column="46" selection-end-line="12" selection-end-column="47" />
+        <state relative-caret-position="120">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="48" column="79" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
