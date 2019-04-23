@@ -24,10 +24,8 @@ public enum DriverType implements DriverSetup {
             return capabilities;
         }
         public WebDriver getWebDriverObject(DesiredCapabilities capabilities){
-            System.setProperty("webdriver.firefox.marionette", System.getProperty("user.home")+"/Desktop/qastarting_repo/src/test/resources/geckodriver");
+            System.setProperty("webdriver.gecko.driver", System.getProperty("user.home")+"/Desktop/qastarting_repo/src/test/resources/geckodriver");
             return new FirefoxDriver(capabilities);
-//            File xx = new File(System.getProperty("user.home"), "/Desktop/qastarting_repo/target/surefire-reports/");
-
         }
     },
     CHROME {

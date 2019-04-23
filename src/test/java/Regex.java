@@ -4,35 +4,8 @@ import org.testng.annotations.Test;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
-import java.util.function.Consumer;
-import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import com.ximpleware.*;
-import org.w3c.dom.*;
-import org.xml.sax.InputSource;
-import org.xml.sax.SAXException;
-
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-
-import static common.Utility.ReadXMLFile;
-import static org.jsoup.nodes.Document.OutputSettings.Syntax.xml;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.transform.OutputKeys;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-import javax.xml.xpath.*;
-
-import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
-import org.xml.sax.SAXException;
-import org.xml.sax.SAXParseException;
 
 //https://regex101.com/
 public class Regex {
