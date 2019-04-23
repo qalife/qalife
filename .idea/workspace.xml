@@ -4,8 +4,8 @@
     <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Regex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,14 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3810">
-              <caret line="254" column="97" selection-start-line="254" selection-start-column="97" selection-end-line="254" selection-end-column="97" />
-              <folding>
-                <marker date="1556048091789" expanded="true" signature="3055:3289" ph="..." />
-              </folding>
+            <state relative-caret-position="253">
+              <caret line="233" column="103" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -56,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chrome.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Chrome.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="180">
+              <caret line="12" column="47" selection-start-line="10" selection-start-column="46" selection-end-line="12" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -68,8 +65,8 @@
       <file leaf-file-name="Firefox.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Firefox.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state relative-caret-position="120">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -89,8 +86,8 @@
       <file leaf-file-name="DriverType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="62" />
+            <state relative-caret-position="114">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,13 +156,13 @@
         <option value="$PROJECT_DIR$/src/test/java/common/Utility.java" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Safari.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/RepositoryMap.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ui/LoginPageAT.java" />
-        <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" />
         <option value="$PROJECT_DIR$/src/test/java/Algoritms.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Regex.java" />
+        <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" />
       </list>
     </option>
   </component>
@@ -604,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555910158322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update driver firefox">
+      <created>1556048448078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556048448078</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -651,11 +655,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13958333" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.3337264" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.3856132" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20972222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20972222" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -711,7 +715,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added new methods" />
     <MESSAGE value="update, added regex" />
-    <option name="LAST_COMMIT_MESSAGE" value="update, added regex" />
+    <MESSAGE value="update driver firefox" />
+    <option name="LAST_COMMIT_MESSAGE" value="update driver firefox" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/ui/SeleniumRemoteTest.java" />
@@ -958,13 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Regex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1002,30 +1000,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Firefox.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="62" />
+        <state relative-caret-position="114">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Firefox.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3810">
-          <caret line="254" column="97" selection-start-line="254" selection-start-column="97" selection-end-line="254" selection-end-column="97" />
-          <folding>
-            <marker date="1556048091789" expanded="true" signature="3055:3289" ph="..." />
-          </folding>
+        <state relative-caret-position="253">
+          <caret line="233" column="103" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="47" selection-start-line="10" selection-start-column="46" selection-end-line="12" selection-end-column="47" />
         </state>
       </provider>
     </entry>

@@ -5,18 +5,18 @@
         <parameter name="browser" value="Chrome"/>
         <parameter name="team" value="1"/>
         <classes>
-            <class name="ui.LoginPageAT"/>
-            <class name="Regex"/>
-            <!--<class name="Algoritms"/>-->
+            <!--<class name="ui.LoginPageAT"/>-->
+            <!--<class name="Regex"/>-->
+            <class name="Algoritms"/>
             <!--<class name="ui.FoxSeleniumTest"/>-->
             <!--<class name="ui.TxtCreateReadModifyDeleteTest"/>-->
             <!--<class name="ui.YelpFindAllNamesPhones"/>-->
-            <!--<class name="oop.Abstraction_OOP"/>-->
-            <!--<class name="oop.DynamicPolymorphism_OOP"/>-->
-            <!--<class name="oop.Encapsulation_OOP"/>-->
-            <!--<class name="oop.InterfacesOOPTest"/>-->
-            <!--<class name="oop.StaticPolymorphism_OOP"/>-->
-            <!--<class name="unit.unitTest"/>-->
+            <class name="oop.Abstraction_OOP"/>
+            <class name="oop.DynamicPolymorphism_OOP"/>
+            <class name="oop.Encapsulation_OOP"/>
+            <class name="oop.InterfacesOOPTest"/>
+            <class name="oop.StaticPolymorphism_OOP"/>
+            <class name="unit.unitTest"/>
         </classes>
     </test>
 </suite>
