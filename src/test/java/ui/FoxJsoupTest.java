@@ -89,6 +89,6 @@ public class FoxJsoupTest extends LoginPage {
         workbook.write(fileOut);
         fileOut.close();
         workbook.close();
-//        Utility.deleteFileOnDesktop(new File("foxjsoup.xls"));
+        Utility.deleteFileOnDesktop(new File("foxjsoup.xls"));
     }
 }

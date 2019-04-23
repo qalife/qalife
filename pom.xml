@@ -230,7 +230,7 @@
                         <configuration>
                             <suiteXmlFiles>
                                 <suiteXmlFile>${project.basedir}/src/test/resources/suites/Chrome.xml</suiteXmlFile>
-                                <!--<suiteXmlFile>${project.basedir}/src/test/resources/suites/Firefox.xml</suiteXmlFile>-->
+                                <suiteXmlFile>${project.basedir}/src/test/resources/suites/Firefox.xml</suiteXmlFile>
                                 <!--&lt;!&ndash;<suiteXmlFile>${project.basedir}/src/test/resources/suites/IE.xml</suiteXmlFile>&ndash;&gt;-->
                                 <!--&lt;!&ndash;<suiteXmlFile>${project.basedir}/src/test/resources/suites/Edge.xml</suiteXmlFile>&ndash;&gt;-->
                                 <!--<suiteXmlFile>${project.basedir}/src/test/resources/suites/Safari.xml</suiteXmlFile>-->
