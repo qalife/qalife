@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Regex.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +23,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="3765">
               <caret line="251" selection-start-line="251" selection-end-line="251" />
             </state>
           </provider>
@@ -32,7 +32,7 @@
       <file leaf-file-name="Algoritms.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Algoritms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="285">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#0#2866#0" expanded="true" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/common/Utility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1515">
-              <caret line="133" column="102" selection-start-line="133" selection-start-column="102" selection-end-line="133" selection-end-column="102" />
+            <state relative-caret-position="2355">
+              <caret line="185" selection-start-line="185" selection-end-line="185" />
             </state>
           </provider>
         </entry>
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="13" selection-end-column="20" />
+              <caret line="13" column="20" selection-start-line="12" selection-start-column="16" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -63,7 +63,7 @@
       <file leaf-file-name="FoxJsoupTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ui/FoxJsoupTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
+            <state relative-caret-position="1245">
               <caret line="92" column="5" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,11 +72,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Firefox.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Firefox.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Firefox.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="210">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Regex.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Regex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="54" column="72" selection-start-line="54" selection-start-column="72" selection-end-line="54" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2696#2697#0" expanded="true" />
+                <element signature="e#2752#2753#0" expanded="true" />
+                <element signature="e#2816#2817#0" expanded="true" />
+                <element signature="e#2877#2878#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,7 +112,7 @@
       <file leaf-file-name="DriverType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="585">
               <caret line="48" column="79" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -129,7 +145,7 @@
       <find>RemoteWebElement</find>
       <find>SimpleTimeLimiter</find>
       <find>selenium</find>
-      <find>Selenium WebDriver</find>
+      <find />
       <find>googlechrome</find>
       <find>317af699e09063a2280ce54343e99377be483165</find>
       <find>fasterxml</find>
@@ -169,13 +185,13 @@
         <option value="$PROJECT_DIR$/src/test/resources/suites/Safari.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/RepositoryMap.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ui/LoginPageAT.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Regex.java" />
         <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" />
         <option value="$PROJECT_DIR$/src/test/java/ui/FoxJsoupTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Algoritms.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Regex.java" />
       </list>
     </option>
   </component>
@@ -234,7 +250,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -243,10 +258,60 @@
               <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Files" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Abstraction_OOP.TestBird">
+  <component name="RunManager" selected="TestNG.Regex.regexFoundFromStringTextByAuthor">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -301,87 +366,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Abstraction_OOP.TestBird" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="oop" />
-      <option name="MAIN_CLASS_NAME" value="oop.Abstraction_OOP" />
-      <option name="METHOD_NAME" value="TestBird" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="Algoritms.graph" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Algoritms" />
-      <option name="METHOD_NAME" value="graph" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="FoxSeleniumTest.foxtest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ui" />
-      <option name="MAIN_CLASS_NAME" value="ui.FoxSeleniumTest" />
-      <option name="METHOD_NAME" value="foxtest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="LoginPageAT.GoogleTest3" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qastarting-test" />
       <extension name="coverage">
@@ -396,35 +380,6 @@
       <option name="PACKAGE_NAME" value="ui" />
       <option name="MAIN_CLASS_NAME" value="ui.LoginPageAT" />
       <option name="METHOD_NAME" value="GoogleTest3" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="LoginPageAT.verifyDatafactionPageAllLinks" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ui" />
-      <option name="MAIN_CLASS_NAME" value="ui.LoginPageAT" />
-      <option name="METHOD_NAME" value="verifyDatafactionPageAllLinks" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -469,20 +424,106 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="YelpFindAllNamesPhones.yelpSearchSelenium" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Regex" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ui" />
-      <option name="MAIN_CLASS_NAME" value="ui.YelpFindAllNamesPhones" />
-      <option name="METHOD_NAME" value="yelpSearchSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Regex" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Regex.regexFoundFromStringInFile" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Regex" />
+      <option name="METHOD_NAME" value="regexFoundFromStringInFile" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Regex.regexFoundFromStringInFileTitle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Regex" />
+      <option name="METHOD_NAME" value="regexFoundFromStringInFileTitle" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Regex.regexFoundFromStringText" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Regex" />
+      <option name="METHOD_NAME" value="regexFoundFromStringText" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Regex.regexFoundFromStringTextByAuthor" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Regex" />
+      <option name="METHOD_NAME" value="regexFoundFromStringTextByAuthor" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -521,19 +562,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.LoginPageAT.verifyDatafactionPageAllLinks" />
-      <item itemvalue="TestNG.YelpFindAllNamesPhones.yelpSearchSelenium" />
-      <item itemvalue="TestNG.FoxSeleniumTest.foxtest" />
-      <item itemvalue="TestNG.Algoritms.graph" />
-      <item itemvalue="TestNG.Abstraction_OOP.TestBird" />
+      <item itemvalue="TestNG.Regex.regexFoundFromStringText" />
+      <item itemvalue="TestNG.Regex.regexFoundFromStringInFile" />
+      <item itemvalue="TestNG.Regex.regexFoundFromStringInFileTitle" />
+      <item itemvalue="TestNG.Regex" />
+      <item itemvalue="TestNG.Regex.regexFoundFromStringTextByAuthor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Abstraction_OOP.TestBird" />
-        <item itemvalue="TestNG.Algoritms.graph" />
-        <item itemvalue="TestNG.FoxSeleniumTest.foxtest" />
-        <item itemvalue="TestNG.YelpFindAllNamesPhones.yelpSearchSelenium" />
-        <item itemvalue="TestNG.LoginPageAT.verifyDatafactionPageAllLinks" />
+        <item itemvalue="TestNG.Regex.regexFoundFromStringTextByAuthor" />
+        <item itemvalue="TestNG.Regex.regexFoundFromStringText" />
+        <item itemvalue="TestNG.Regex" />
+        <item itemvalue="TestNG.Regex.regexFoundFromStringInFileTitle" />
+        <item itemvalue="TestNG.Regex.regexFoundFromStringInFile" />
       </list>
     </recent_temporary>
   </component>
@@ -674,28 +715,17 @@
       <option name="project" value="LOCAL" />
       <updated>1556072991839</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update driver firefox">
+      <created>1556074279194</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556074279194</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageAT_verifyDatafactionPageAllLinks - 2019.04.18 at 23h 33m 07s.xml">
-      <configuration name="LoginPageAT.verifyDatafactionPageAllLinks" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="YelpFindAllNamesPhones_yelpSearchSelenium - 2019.04.18 at 23h 47m 24s.xml">
-      <configuration name="YelpFindAllNamesPhones.yelpSearchSelenium" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="YelpFindAllNamesPhones_yelpSearchSelenium - 2019.04.18 at 23h 49m 42s.xml">
-      <configuration name="YelpFindAllNamesPhones.yelpSearchSelenium" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginPageAT_GoogleTest3 - 2019.04.18 at 23h 52m 39s.xml">
-      <configuration name="LoginPageAT.GoogleTest3" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="YelpFindAllNamesPhones_yelpSearchSelenium - 2019.04.18 at 23h 53m 01s.xml">
-      <configuration name="YelpFindAllNamesPhones.yelpSearchSelenium" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FoxSeleniumTest_foxtest - 2019.04.18 at 23h 54m 13s.xml">
-      <configuration name="FoxSeleniumTest.foxtest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="FoxSeleniumTest_foxtest - 2019.04.19 at 00h 01m 32s.xml">
       <configuration name="FoxSeleniumTest.foxtest" configurationId="TestNG" />
     </history-entry>
@@ -708,6 +738,24 @@
     <history-entry file="Abstraction_OOP_TestBird - 2019.04.20 at 17h 51m 49s.xml">
       <configuration name="Abstraction_OOP.TestBird" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Regex_regexFoundFromStringText - 2019.04.23 at 19h 55m 35s.xml">
+      <configuration name="Regex.regexFoundFromStringText" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Regex_regexFoundFromStringInFile - 2019.04.23 at 19h 57m 44s.xml">
+      <configuration name="Regex.regexFoundFromStringInFile" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Regex_regexFoundFromStringInFileTitle - 2019.04.23 at 19h 58m 02s.xml">
+      <configuration name="Regex.regexFoundFromStringInFileTitle" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Regex - 2019.04.23 at 19h 58m 16s.xml">
+      <configuration name="Regex" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Regex_regexFoundFromStringText - 2019.04.23 at 20h 00m 05s.xml">
+      <configuration name="Regex.regexFoundFromStringText" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Regex_regexFoundFromStringTextByAuthor - 2019.04.23 at 20h 45m 20s.xml">
+      <configuration name="Regex.regexFoundFromStringTextByAuthor" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -715,18 +763,20 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17570755" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2912736" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13958333" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8427907" weight="0.16863208" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.03263889" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.4033019" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17569445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26527777" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -734,34 +784,32 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.36870998" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32900944" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.2913386" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32900944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.36870998" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.33858266" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29245284" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19444445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17570755" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.33858266" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32900944" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.108333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -769,9 +817,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29245284" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.36870998" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.108333334" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -985,20 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/Utility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="133" column="102" selection-start-line="133" selection-start-column="102" selection-end-line="133" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Regex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/oop/Abstraction_OOP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -1015,7 +1049,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="585">
           <caret line="48" column="79" selection-start-line="48" selection-start-column="79" selection-end-line="48" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1039,14 +1073,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="3765">
           <caret line="251" selection-start-line="251" selection-end-line="251" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Algoritms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="285">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#0#2866#0" expanded="true" />
@@ -1058,13 +1092,13 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="13" selection-end-column="20" />
+          <caret line="13" column="20" selection-start-line="12" selection-start-column="16" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ui/FoxJsoupTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
+        <state relative-caret-position="1245">
           <caret line="92" column="5" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1082,10 +1116,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Regex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2696#2697#0" expanded="true" />
+            <element signature="e#2752#2753#0" expanded="true" />
+            <element signature="e#2816#2817#0" expanded="true" />
+            <element signature="e#2877#2878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Firefox.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
