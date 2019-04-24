@@ -249,7 +249,7 @@
                             <systemPropertyVariables>
                                 <browser>${browser}</browser>
                                 <seleniumUrl>${seleniumUrl}</seleniumUrl>
-                                
+
                                 <screenshotDirectory>${project.build.directory}/screenshots</screenshotDirectory>
                                 <remoteDriver>${remote}</remoteDriver>
                                 <gridURL>${seleniumGridURL}</gridURL>
