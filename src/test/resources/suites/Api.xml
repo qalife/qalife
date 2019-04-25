@@ -7,9 +7,6 @@
             <class name="ApiTests.restassured.RestAssuredXMLExamplesTest"/>
             <class name="ApiTests.api.version_2_3_0.unittests.RegexUrlParseExampleTest"/>
             <class name="ApiTests.api.version_2_3_0.unittests.UrlParamsTest"/>
-            <class name="ApiTests.api.version_2_3_0.tracksapi.AuthenticationTest"/>
-            <class name="ApiTests.api.version_2_3_0.tracksapi.ProjectTest"/>
-            <class name="ApiTests.api.version_2_3_0.tracksapi.TasksActionsTest"/>
             <class name="ApiTests.api.version_2_3_0.tracksapi.TracksResponseProcessor"/>
         </classes>
     </test>
