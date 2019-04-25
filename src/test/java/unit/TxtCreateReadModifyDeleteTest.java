@@ -1,4 +1,4 @@
-package ui;
+package unit;
 
 import com.github.javafaker.*;
 import org.testng.annotations.*;

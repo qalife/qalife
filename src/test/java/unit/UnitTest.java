@@ -5,7 +5,7 @@ import org.testng.annotations.*;
 import pages.LoginPage;
 import java.util.*;
 
-public class unitTest extends LoginPage{
+public class UnitTest extends LoginPage{
     @Test
     public void FormatToCurrency() {
         Utility.toCurrency(123);

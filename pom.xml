@@ -183,6 +183,44 @@
             <artifactId>saucerest</artifactId>
             <version>1.0.33</version>
         </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>3.0.7</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-core</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>javax.activation</groupId>
+            <artifactId>activation</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.1</version>
+        </dependency>
     </dependencies>
 
     <profiles>
@@ -234,6 +272,8 @@
                                 <!--&lt;!&ndash;<suiteXmlFile>${project.basedir}/src/test/resources/suites/IE.xml</suiteXmlFile>&ndash;&gt;-->
                                 <!--&lt;!&ndash;<suiteXmlFile>${project.basedir}/src/test/resources/suites/Edge.xml</suiteXmlFile>&ndash;&gt;-->
                                 <!--<suiteXmlFile>${project.basedir}/src/test/resources/suites/Safari.xml</suiteXmlFile>-->
+                                <suiteXmlFile>${project.basedir}/src/test/resources/suites/Unit.xml</suiteXmlFile>
+                                <suiteXmlFile>${project.basedir}/src/test/resources/suites/Api.xml</suiteXmlFile>
                             </suiteXmlFiles>
                         </configuration>
                     </plugin>

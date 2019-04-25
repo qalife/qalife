@@ -1,6 +1,7 @@
 // Using library selenium for web parsing(find some elements) and writing to xls file, also using scroll down
 
 package ui;
+import common.Utility;
 import org.openqa.selenium.*;
 import org.apache.poi.hssf.usermodel.*;
 import org.openqa.selenium.interactions.*;
@@ -140,6 +141,6 @@ public class FoxSeleniumTest extends LoginPage {
         workbook.write(fileOut);
         fileOut.close();
         workbook.close();
-//        Utility.deleteFileOnDesktop(new File("foxselenium.xls"));
+        Utility.deleteFileOnDesktop(new File("foxselenium.xls"));
     }
 }

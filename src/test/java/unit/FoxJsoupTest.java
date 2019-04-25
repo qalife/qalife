@@ -1,6 +1,6 @@
 // Using library jsoup for web parsing(find some elements) and writing to xls file
 
-package ui;
+package unit;
 import common.Utility;
 import org.jsoup.*;
 import org.jsoup.nodes.*;
