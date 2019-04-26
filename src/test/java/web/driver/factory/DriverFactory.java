@@ -102,7 +102,7 @@ public class DriverFactory {
     public static void quitDriver() {
         if(null!=driverThread.get()){
             driverThread.get().quitDriver();}
-        Utility.SendMailSSLWithAttachment();
+//        Utility.SendMailSSLWithAttachment();
     }
 
     @AfterSuite(alwaysRun = true)

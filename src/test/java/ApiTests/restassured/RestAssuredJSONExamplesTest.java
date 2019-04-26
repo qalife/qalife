@@ -18,10 +18,6 @@ import static org.hamcrest.core.IsEqual.equalTo;
  */
 public class RestAssuredJSONExamplesTest extends LoginPage {
 
-
-    String jsonendpoint
-       = "http://compendiumdev.co.uk/apps/mocktracks/projectsjson.php";
-
     @Test
     public void simpleJSONRestAssuredExample(){
 
@@ -30,10 +26,19 @@ public class RestAssuredJSONExamplesTest extends LoginPage {
                 get(jsonendpoint).
             then().assertThat().
                 body("projects.project[0].name",
-                     equalTo("A New Projectaniheeiadtatd"));
+                        equalTo("A New Projectaniheeiadtatd"));
     }
 
+    @Test
+    public void simpleJSONRestAssuredExampleCreated(){
 
+        RestAssured.
+            when().
+                get(jsonendpoint).
+            then().assertThat().
+                body("projects.project[0].created-at",
+                        equalTo("2017-06-27T12:25:26+01:00"));
+    }
 
     @Test
     public void aJsonRestAssuredExample() {

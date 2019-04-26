@@ -2,81 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/RandomDataGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/RandomFoodBackedDataRetriever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/TestDataRetriever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/CompoundFoodNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/CookingUtensils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/FoodPrepVerbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/FruitNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/GenericVerbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/RandomItemsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/VegetableNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/TestEnv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/TracksApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/TracksApiEndPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/TracksAppAsApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/TracksResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/entity/TracksContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/entity/TracksProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/entity/TracksTodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/http/HttpMessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/http/URLifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/api/version_2_3_0/tracks/http/UrlParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/environmentconfig/TestEnvDefaults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/restassuredexamples/RestAssuredAuthenticationExamplesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/synchronisation/Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/tracksapi/AuthenticationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/tracksapi/ProjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/tracksapi/TasksActionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/tracksapi/TracksResponseProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/trackstestdata/SetupTracksTestDataUtilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/unittests/RegexUrlParseExampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/unittests/UrlParamsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/ProjectFromXmlOrJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/ProjectJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerialisedTodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerialisingApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerializedTodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerializingApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/testdata/RandomDataGeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/testdata/TestDataRetrieverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/unit/YelpFindAllNamesPhones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonxml/jsonexample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonxml/xmlexample.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/project/createProject.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/Api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/Unit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/smoke/SmokeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qastarting-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/qastarting-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Algoritms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/Algoritms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/Regex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/FoxJsoupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/FoxJsoupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/FoxSeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/FoxSeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/TxtCreateReadModifyDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/TxtCreateReadModifyDeleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui/YelpFindAllNamesPhones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/YelpFindAllNamesPhones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/unit/unitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/unit/UnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ui/SeleniumGrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui/SeleniumGrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Edge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Edge.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/IE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/IE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/suites/Safari.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/suites/Safari.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,11 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FoxJsoupTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/unit/FoxJsoupTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="349">
+              <caret line="276" column="44" selection-start-line="276" selection-start-column="44" selection-end-line="276" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestAssuredJSONExamplesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +49,75 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TestDataRetrieverTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/testdata/TestDataRetrieverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Api.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Api.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+            <state relative-caret-position="90">
+              <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestAssuredXMLExamplesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jsonexample.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/jsonxml/jsonexample.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-392" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -150,15 +158,19 @@
       <find>Before</find>
       <find>junit</find>
       <find>driver</find>
+      <find>aUserCanAccessWithBasicAuthHeader</find>
+      <find>whenWeDeleteAProjectTheTasksAreDeletedAsWell</find>
+      <find>http:</find>
     </findStrings>
     <replaceStrings>
       <replace>ApiTests.src.main.java.api.version_</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/test/java/ApiTests/src</dir>
-      <dir>$PROJECT_DIR$/src/test/java/ApiTests</dir>
       <dir>$PROJECT_DIR$/src</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/main</dir>
+      <dir>$PROJECT_DIR$/src/test/java/ApiTests</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -177,13 +189,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/common/ScreenshotListener.java" />
         <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverBase.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/webdriver/RepositoryMap.xml" />
         <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverThread.java" />
-        <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/common/Utility.java" />
         <option value="$PROJECT_DIR$/src/test/resources/RepositoryMap.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ui/LoginPageAT.java" />
@@ -212,10 +220,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/tracksapi/ProjectTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/tracksapi/TasksActionsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/restassuredexamples/RestAssuredAuthenticationExamplesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Edge.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/IE.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Safari.xml" />
@@ -227,6 +231,15 @@
         <option value="$PROJECT_DIR$/src/test/resources/suites/Unit.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Firefox.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/suites/Api.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ui/SeleniumGrid.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/suites/Chrome.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/smoke/SmokeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -254,8 +267,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="898" />
+    <option name="height" value="838" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -265,8 +279,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,6 +297,19 @@
               <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,75 +326,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-              <item name="environmentconfig" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-              <item name="restassuredexamples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-              <item name="synchronisation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-              <item name="tracksapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-              <item name="trackstestdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="version_2_3_0" type="462c0819:PsiDirectoryNode" />
-              <item name="unittests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
@@ -384,9 +342,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ApiTests" type="462c0819:PsiDirectoryNode" />
-              <item name="restassured" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
@@ -394,6 +350,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jsonxml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
@@ -407,7 +379,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,19 +390,20 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="smoke" />
+      <recent name="unit" />
+      <recent name="common" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/suites" />
       <recent name="$PROJECT_DIR$/src/test/java/ApiTests" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="unit" />
-      <recent name="common" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -445,7 +418,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.FoxJsoupTest">
+  <component name="RunManager" selected="TestNG.RestAssuredXMLExamplesTest.simpleXmlRestAssuredExampleState">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -464,35 +437,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="FoxJsoupTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="unit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ui" />
-      <option name="MAIN_CLASS_NAME" value="unit.FoxJsoupTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
     </configuration>
     <configuration name="LoginPageAT.GoogleTest3" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qastarting-test" />
@@ -552,36 +496,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RestAssuredAuthenticationExamplesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ApiTests.api.version_2_3_0.restassuredexamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ApiTests.api.version_2_3_0.restassuredexamples" />
-      <option name="MAIN_CLASS_NAME" value="ApiTests.api.version_2_3_0.restassuredexamples.RestAssuredAuthenticationExamplesTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="RestAssuredJSONExamplesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qastarting-test" />
       <extension name="coverage">
         <pattern>
@@ -594,36 +509,7 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="ApiTests.restassured" />
       <option name="MAIN_CLASS_NAME" value="ApiTests.restassured.RestAssuredJSONExamplesTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="RestAssuredJSONExamplesTest.aJsonDeserializationExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="qastarting-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ApiTests.restassured.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ApiTests.restassured" />
-      <option name="MAIN_CLASS_NAME" value="ApiTests.restassured.RestAssuredJSONExamplesTest" />
-      <option name="METHOD_NAME" value="aJsonDeserializationExample" />
+      <option name="METHOD_NAME" value="aSetOfJsonPathExamples" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -639,7 +525,65 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="RestAssuredXMLExamplesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestAssuredJSONExamplesTest.simpleJSONRestAssuredExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="ApiTests.restassured" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.restassured.RestAssuredJSONExamplesTest" />
+      <option name="METHOD_NAME" value="simpleJSONRestAssuredExample" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="RestAssuredJSONExamplesTest.simpleJSONRestAssuredExampleCreated" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="ApiTests.restassured" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.restassured.RestAssuredJSONExamplesTest" />
+      <option name="METHOD_NAME" value="simpleJSONRestAssuredExampleCreated" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="RestAssuredXMLExamplesTest.simpleXmlRestAssuredExampleState" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="qastarting-test" />
       <extension name="coverage">
         <pattern>
@@ -652,9 +596,38 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="ApiTests.restassured" />
       <option name="MAIN_CLASS_NAME" value="ApiTests.restassured.RestAssuredXMLExamplesTest" />
-      <option name="METHOD_NAME" />
+      <option name="METHOD_NAME" value="simpleXmlRestAssuredExampleState" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="SmokeTest.foxtest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qastarting-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="smoke" />
+      <option name="MAIN_CLASS_NAME" value="smoke.SmokeTest" />
+      <option name="METHOD_NAME" value="foxtest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -691,19 +664,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.RestAssuredAuthenticationExamplesTest" />
-      <item itemvalue="TestNG.RestAssuredXMLExamplesTest" />
-      <item itemvalue="TestNG.RestAssuredJSONExamplesTest.aJsonDeserializationExample" />
-      <item itemvalue="TestNG.RestAssuredJSONExamplesTest" />
-      <item itemvalue="TestNG.FoxJsoupTest" />
+      <item itemvalue="TestNG.SmokeTest.foxtest" />
+      <item itemvalue="TestNG.RestAssuredJSONExamplesTest.simpleJSONRestAssuredExample" />
+      <item itemvalue="TestNG.RestAssuredJSONExamplesTest.simpleJSONRestAssuredExampleCreated" />
+      <item itemvalue="TestNG.RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" />
+      <item itemvalue="TestNG.RestAssuredXMLExamplesTest.simpleXmlRestAssuredExampleState" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FoxJsoupTest" />
-        <item itemvalue="TestNG.RestAssuredJSONExamplesTest" />
-        <item itemvalue="TestNG.RestAssuredJSONExamplesTest.aJsonDeserializationExample" />
-        <item itemvalue="TestNG.RestAssuredXMLExamplesTest" />
-        <item itemvalue="TestNG.RestAssuredAuthenticationExamplesTest" />
+        <item itemvalue="TestNG.RestAssuredXMLExamplesTest.simpleXmlRestAssuredExampleState" />
+        <item itemvalue="TestNG.RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" />
+        <item itemvalue="TestNG.RestAssuredJSONExamplesTest.simpleJSONRestAssuredExampleCreated" />
+        <item itemvalue="TestNG.RestAssuredJSONExamplesTest.simpleJSONRestAssuredExample" />
+        <item itemvalue="TestNG.SmokeTest.foxtest" />
       </list>
     </recent_temporary>
   </component>
@@ -858,39 +831,53 @@
       <option name="project" value="LOCAL" />
       <updated>1556077804785</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update driver firefox">
+      <created>1556224954662</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556224954662</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added api tests, refactored script">
+      <created>1556225342497</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556225342497</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UrlParamsTest - 2019.04.25 at 13h 18m 48s.xml">
-      <configuration name="UrlParamsTest" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_simpleJSONRestAssuredExample - 2019.04.25 at 19h 54m 00s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.simpleJSONRestAssuredExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredAuthenticationExamplesTest - 2019.04.25 at 13h 23m 58s.xml">
-      <configuration name="RestAssuredAuthenticationExamplesTest" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_simpleJSONRestAssuredExample - 2019.04.25 at 19h 56m 55s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.simpleJSONRestAssuredExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredXMLExamplesTest - 2019.04.25 at 13h 25m 36s.xml">
-      <configuration name="RestAssuredXMLExamplesTest" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_simpleJSONRestAssuredExample - 2019.04.25 at 19h 57m 06s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.simpleJSONRestAssuredExample" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredJSONExamplesTest_aJsonDeserializationExample - 2019.04.25 at 13h 26m 10s.xml">
-      <configuration name="RestAssuredJSONExamplesTest.aJsonDeserializationExample" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_simpleJSONRestAssuredExampleCreated - 2019.04.25 at 19h 59m 55s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.simpleJSONRestAssuredExampleCreated" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredJSONExamplesTest_aJsonDeserializationExample - 2019.04.25 at 13h 26m 24s.xml">
-      <configuration name="RestAssuredJSONExamplesTest.aJsonDeserializationExample" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_aSetOfJsonPathExamples - 2019.04.25 at 20h 02m 33s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredJSONExamplesTest_aJsonDeserializationExample - 2019.04.25 at 13h 26m 55s.xml">
-      <configuration name="RestAssuredJSONExamplesTest.aJsonDeserializationExample" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_aSetOfJsonPathExamples - 2019.04.25 at 20h 02m 59s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredJSONExamplesTest_aJsonDeserializationExample - 2019.04.25 at 13h 27m 05s.xml">
-      <configuration name="RestAssuredJSONExamplesTest.aJsonDeserializationExample" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_aSetOfJsonPathExamples - 2019.04.25 at 20h 04m 08s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredJSONExamplesTest_aJsonDeserializationExample - 2019.04.25 at 13h 27m 15s.xml">
-      <configuration name="RestAssuredJSONExamplesTest.aJsonDeserializationExample" configurationId="TestNG" />
+    <history-entry file="RestAssuredJSONExamplesTest_aSetOfJsonPathExamples - 2019.04.25 at 20h 06m 16s.xml">
+      <configuration name="RestAssuredJSONExamplesTest.aSetOfJsonPathExamples" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestAssuredJSONExamplesTest - 2019.04.25 at 13h 28m 56s.xml">
-      <configuration name="RestAssuredJSONExamplesTest" configurationId="TestNG" />
+    <history-entry file="RestAssuredXMLExamplesTest_simpleXmlRestAssuredExampleState - 2019.04.25 at 20h 13m 08s.xml">
+      <configuration name="RestAssuredXMLExamplesTest.simpleXmlRestAssuredExampleState" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="FoxJsoupTest - 2019.04.25 at 13h 31m 22s.xml">
-      <configuration name="FoxJsoupTest" configurationId="TestNG" />
+    <history-entry file="RestAssuredXMLExamplesTest_simpleXmlRestAssuredExampleState - 2019.04.25 at 20h 13m 20s.xml">
+      <configuration name="RestAssuredXMLExamplesTest.simpleXmlRestAssuredExampleState" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -903,13 +890,13 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.12708333" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.16745283" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.10138889" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.26179245" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26944444" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28958333" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -928,33 +915,33 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.33858266" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29245284" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19444445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17570755" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32900944" />
       <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.108333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.36870998" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29245284" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.108333334" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -965,7 +952,8 @@
     <MESSAGE value="added new methods" />
     <MESSAGE value="update, added regex" />
     <MESSAGE value="update driver firefox" />
-    <option name="LAST_COMMIT_MESSAGE" value="update driver firefox" />
+    <MESSAGE value="added api tests, refactored script" />
+    <option name="LAST_COMMIT_MESSAGE" value="added api tests, refactored script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -973,125 +961,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_2_0/appasapi/wunderlist/WunderListAppAsApiTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_3_0/environmentconfig/TestEnvDefaults.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_3_0/unittests/UrlParamsTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_3_0/tracksapi/ProjectTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/RestAssuredXMLExamplesTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/ProjectJson.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_2_0/trackstestdata/SetupTracksTestDataTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_3_0/tracksapi/TracksResponseProcessor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_3_0/unittests/RegexUrlParseExampleTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/restassured/RestAssuredJSONExamplesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/api/version_2_3_0/tracksapi/AuthenticationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_2_0/trackstestdata/SetupTracksTestDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_2_0/appasapi/wunderlist/WunderListAppAsApiTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerialisedTodo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerializingApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/api/SerialisingApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/ProjectJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/ProjectFromXmlOrJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/environmentconfig/TestEnvDefaults.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/jsonxml/jsonexample.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-445" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/jsonxml/xmlexample.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/project/createProject.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/unit/Regex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-509">
@@ -1127,9 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1144,13 +1010,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="275" column="85" selection-start-line="275" selection-start-column="85" selection-end-line="275" selection-end-column="85" />
         </state>
       </provider>
     </entry>
@@ -1191,20 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ui/YelpFindAllNamesPhones.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1240,20 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ui/FoxSeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Edge.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1282,6 +1113,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/SeleniumGrid2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/SeleniumGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="82" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ui/FoxSeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="113" column="74" selection-start-line="113" selection-start-column="66" selection-end-line="113" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Chrome.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/unit/FoxJsoupTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1292,20 +1154,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/restassuredexamples/RestAssuredAuthenticationExamplesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/smoke/SmokeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="2010">
+          <caret line="153" column="5" lean-forward="true" selection-start-line="153" selection-start-column="5" selection-end-line="153" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/environmentconfig/TestEnvDefaults.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/api/version_2_3_0/restassuredexamples/RestAssuredAuthenticationExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/CompoundFoodNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/CookingUtensils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/FoodPrepVerbs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/FruitNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/GenericVerbs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/RandomDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/RandomFoodBackedDataRetriever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/RandomItemsArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="75" lean-forward="true" selection-start-line="35" selection-start-column="75" selection-end-line="35" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/version_2_3_0/testdata/words/VegetableNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/pages/LoginPage.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/jsonxml/jsonexample.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredJSONExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/testdata/TestDataRetrieverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApiTests/restassured/RestAssuredXMLExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="276" column="44" selection-start-line="276" selection-start-column="44" selection-end-line="276" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/suites/Api.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+        <state relative-caret-position="90">
+          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
         </state>
       </provider>
     </entry>

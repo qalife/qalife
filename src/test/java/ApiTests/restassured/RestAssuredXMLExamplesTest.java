@@ -38,6 +38,14 @@ public class RestAssuredXMLExamplesTest extends LoginPage {
                      equalTo("A New Projectaniheeiadtatd"));
     }
 
+    @Test
+    public void simpleXmlRestAssuredExampleState(){
+        RestAssured.when().get(xmlendpoint).
+            then().assertThat().
+                body("projects.project[0].state",
+                     equalTo("active"));
+    }
+
 
     @Test
     public void aXmlRestAssuredExample() {
