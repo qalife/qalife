@@ -5,12 +5,9 @@ import org.openqa.selenium.chrome.*;
 import org.openqa.selenium.firefox.*;
 import org.openqa.selenium.opera.*;
 import org.openqa.selenium.remote.*;
-import java.io.File;
-import java.util.Collections;
-import java.util.HashMap;
-
+import java.io.*;
+import java.util.*;
 import static web.driver.factory.DriverFactory.*;
-
 
 public enum DriverType implements DriverSetup {
     FIREFOX {
@@ -24,7 +21,7 @@ public enum DriverType implements DriverSetup {
             return capabilities;
         }
         public WebDriver getWebDriverObject(DesiredCapabilities capabilities){
-            System.setProperty("webdriver.gecko.driver", System.getProperty("user.home")+"/Desktop/qastarting_repo/src/test/resources/geckodriver");
+            System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"/src/test/resources/geckodriver");
             System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "");
             return new FirefoxDriver(capabilities);
         }
@@ -45,7 +42,7 @@ public enum DriverType implements DriverSetup {
             return capabilities;
         }
         public WebDriver getWebDriverObject(DesiredCapabilities capabilities){
-            System.setProperty("webdriver.chrome.driver", System.getProperty("user.home")+"/Desktop/qastarting_repo/src/test/resources/chromedriver");
+            System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"/src/test/resources/chromedriver");
             System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "");
             return new ChromeDriver(capabilities);
         }
