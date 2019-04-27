@@ -9,6 +9,7 @@ import java.io.*;
 import java.util.*;
 import static web.driver.factory.DriverFactory.*;
 
+
 public enum DriverType implements DriverSetup {
     FIREFOX {
         public DesiredCapabilities getDesiredCapabilities() {

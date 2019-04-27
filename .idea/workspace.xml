@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c58da3c-77ca-4ef4-9302-9bf38298e8c6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +31,8 @@
       <file leaf-file-name="DriverType.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-end-line="48" />
+            <state relative-caret-position="135">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -90,7 +88,7 @@
       <find>RemoteWebElement</find>
       <find>SimpleTimeLimiter</find>
       <find>selenium</find>
-      <find />
+      <find>Selenium WebDriver</find>
       <find>googlechrome</find>
       <find>317af699e09063a2280ce54343e99377be483165</find>
       <find>fasterxml</find>
@@ -216,9 +214,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="40" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="836" />
   </component>
@@ -236,24 +233,6 @@
             <path>
               <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qastarting_repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qastarting_repo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -741,7 +720,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556249047228</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="refactored script">
+      <created>1556346078462</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556346078462</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -777,7 +763,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="415" y="89" width="1440" height="836" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -787,12 +773,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.1572093" side_tool="true" weight="0.30577427" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.10138889" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8427907" visible="true" weight="0.13910761" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8427907" weight="0.2476415" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.46458334" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -850,7 +836,8 @@
     <MESSAGE value="update, added regex" />
     <MESSAGE value="update driver firefox" />
     <MESSAGE value="added api tests, refactored script" />
-    <option name="LAST_COMMIT_MESSAGE" value="added api tests, refactored script" />
+    <MESSAGE value="refactored script" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1201,8 +1188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/web/driver/factory/DriverType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="47" column="29" lean-forward="true" selection-start-line="47" selection-end-line="48" />
+        <state relative-caret-position="135">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
