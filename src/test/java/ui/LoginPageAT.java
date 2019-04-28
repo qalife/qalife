@@ -127,37 +127,42 @@ public class LoginPageAT extends LoginPage {
         new WebDriverWait(driver, 10).until(ExpectedConditions.titleIs("Personal"));
     }
 
-    @Test
+    @Test(priority = 1)
     @Parameters({"browser"})
-    public void verifyDatafactionPageAllLinks(String browser) {
+    public void verifyDatafactionPageAllLinks(String browser) throws Exception{
         WebDriver driver = DriverFactory.getDriver(browser);
         driver.get("https://datafaction.com");
         String[] links = null;
         int linksCount = 0;
-        List<WebElement> linksize = driver.findElements(By.tagName("a"));
+        List<WebElement> linksize = driver.findElements(By.tagName("a"));//found all tags a - all links
         linksCount = linksize.size();
         System.out.println("Total no of links Available: " + linksCount);
         links = new String[linksCount];
-        System.out.println("List of links Available: ");
 // print all the links from webpage
         for (int i = 0; i < linksCount; i++) {
             List<WebElement> all_links_webpage = driver.findElements(By.tagName("a"));
             links[i] = linksize.get(i).getAttribute("href");
             System.out.println(all_links_webpage.get(i).getAttribute("href"));
         }
+//        Set<String> set = new HashSet<>(links);
+//        all_links_webpage.clear();
+//        all_links_webpage.addAll(set);
 // navigate to each Link on the webpage
         for (int i = 0; i < linksCount; i++) {
-            driver.navigate().to(links[i]);
+            driver.navigate().to(links[i]);//navigation
             String curl = driver.getCurrentUrl();
             System.out.println(curl);
-            if (curl.contains(links[i])) {
+            if (curl.contains(links[i])) {//https://www.datafaction.com/resources.html
                 System.out.println("True");
                 assert true;
             } else {
-                System.out.println("True");
-                assert true;
+                System.out.println("False");
+                assert false;
             }
         }
+//        while (driver.findElement(By.name("blog")).isDisplayed()){
+//           driver.findElement(By.tagName("a")).click();
+//        }
     }
 
 }

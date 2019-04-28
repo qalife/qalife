@@ -9,6 +9,8 @@ public class LoginPage extends Page{
     private final String explicitTime;
     public final String googleBtnSearchLoc;
     public final String jsonendpoint;
+    public final String foxPageLoc;
+    public final String foxPageHomeLoc;
 
     public LoginPage() {
         resourceBundle = getBundle("pages.LoginPage");
@@ -16,6 +18,8 @@ public class LoginPage extends Page{
         explicitTime = this.getResourceBundle().getString("explicitTime");
         googleBtnSearchLoc = this.getResourceBundle().getString("googleBtnSearchLoc");
         jsonendpoint = this.getResourceBundle().getString("jsonendpoint");
+        foxPageLoc = this.getResourceBundle().getString("foxPageLoc");
+        foxPageHomeLoc = this.getResourceBundle().getString("foxPageHomeLoc");
     }
     @Override
     public ResourceBundle getResourceBundle() {

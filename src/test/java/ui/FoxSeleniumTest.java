@@ -26,6 +26,7 @@ public class FoxSeleniumTest extends LoginPage {
         String filename = System.getProperty("user.home")+"/Desktop/foxselenium.xls";
         driver.get("https://www.fox.com/");
         driver.findElement(By.xpath("(//*[contains(@href, 'sports')])[1]")).click();
+
         Actions action = new Actions(driver);
         for(int i=0;i<5;i++)
         {
@@ -33,7 +34,7 @@ public class FoxSeleniumTest extends LoginPage {
             Thread.sleep(3000);
             action.release().perform();
         }
-        List<WebElement> titles = driver.findElements(By.xpath("//*[contains(@class, 'Tile_details')]"));
+        List<WebElement> titles = driver.findElements(By.xpath(foxPageLoc));
         int size = titles.size();
         HSSFWorkbook workbook = new HSSFWorkbook();
         HSSFSheet sheet = workbook.createSheet("Show");
@@ -53,7 +54,7 @@ public class FoxSeleniumTest extends LoginPage {
         row3.createCell(1).setCellValue(titles.get(size-2).getText());
         row4.createCell(1).setCellValue(titles.get(size-1).getText());
 // Home
-        driver.findElement(By.xpath("//a[contains(text(), 'Home')]")).click();
+        driver.findElement(By.xpath(foxPageHomeLoc)).click();
         sleep(2000);
         for(int i=0;i<5;i++)
         {
@@ -62,7 +63,7 @@ public class FoxSeleniumTest extends LoginPage {
             action.release().perform();
         }
         Thread.sleep(500);
-        List<WebElement> fx = driver.findElements(By.xpath("//*[contains(@class, 'Tile_details')]"));
+        List<WebElement> fx = driver.findElements(By.xpath(foxPageLoc));
         int fxsize = fx.size();
         HSSFSheet sheetn = workbook.createSheet("FX");
         HSSFRow rowheadn = sheetn.createRow((short)0);
@@ -90,7 +91,7 @@ public class FoxSeleniumTest extends LoginPage {
             action.release().perform();
         }
         Thread.sleep(500);
-        List<WebElement> sport = driver.findElements(By.xpath("//*[contains(@class, 'Tile_details')]"));
+        List<WebElement> sport = driver.findElements(By.xpath(foxPageLoc));
         int sportsize = sport.size();
         HSSFSheet sheetsport = workbook.createSheet("Fox Sports");
         HSSFRow rowheadsport = sheetsport.createRow((short)0);
@@ -118,7 +119,7 @@ public class FoxSeleniumTest extends LoginPage {
             action.release().perform();
         }
         Thread.sleep(500);
-        List<WebElement> all = driver.findElements(By.xpath("//*[contains(@class, 'Tile_details')]"));
+        List<WebElement> all = driver.findElements(By.xpath(foxPageLoc));
         int allsize = all.size();
         HSSFSheet sheetall = workbook.createSheet("ALL");
         HSSFRow rowheadall = sheetall.createRow((short)0);
